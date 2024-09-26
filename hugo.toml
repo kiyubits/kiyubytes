@@ -5,6 +5,13 @@ theme = "gokarna"
 enableRobotsTXT = true
 [params]
   description = "Documenting some of my physics and coding adventures"
+  avatarURL = "https://images.genius.com/45106ccfca183fa8752e2d07d529d5f0.1000x1000x1.jpg"
+  avatarSize = "size-m"
+  accentColor = "#08F"
+  showPostsOnHomePage = "recent"
+  footer = "Kiyubits"
+  togglePreviousAndNextButtons = "true"
+  favicon = true
 [Author]
   name = "Kiyubits"
 [menu]
@@ -20,3 +27,4 @@ enableRobotsTXT = true
     url = "https://github.com/kiyubits"
     weight = 3
     pre = "<span data-feather='github'></span>"
+  
