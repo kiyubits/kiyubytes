@@ -1,16 +1,17 @@
-baseURL = "https://kiyubits.github.io/kiyubytes"
+baseURL = "https://kiyubits.github.io/kiyubytes/"
 languageCode = "en-us"
 title = "Kiyubytes"
 theme = "gokarna"
 enableRobotsTXT = true
 [params]
   description = "Documenting some of my physics and coding adventures"
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "images/avatar.jpg"
   avatarSize = "size-m"
   accentColor = "#08F"
   showPostsOnHomePage = "recent"
   footer = "Kiyubits"
   togglePreviousAndNextButtons = "true"
+  favicon = "favicon.ico"
 [Author]
   name = "Kiyubits"
 [menu]
