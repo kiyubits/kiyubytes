@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f0f0; /* Change background color */
+    color: #333333; /* Change text color */
+}
+
+a {
+    color: #1e90ff; /* Change link color */
+}
+
+h1, h2, h3 {
+    color: #ff6347; /* Change heading colors */
+}
+

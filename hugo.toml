@@ -1,3 +1,22 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://kiyubits.github.io/kiyubytes"
+languageCode = "en-us"
+title = "Kiyubytes"
+theme = "gokarna"
+enableRobotsTXT = true
+[params]
+  description = "Documenting some of my physics and coding adventures"
+[Author]
+  name = "Kiyubits"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    pre = ""
+    post = ""
+    name = "Posts"
+    weight = 1
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/kiyubits"
+    weight = 3
+    pre = "<span data-feather='github'></span>"
