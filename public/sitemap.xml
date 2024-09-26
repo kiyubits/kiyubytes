@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/kiyubytes/</loc>
+    <loc>https://kiyubits.github.io/kiyubytes/</loc>
+    <lastmod>2024-09-26T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kiyubytes/categories/</loc>
+    <loc>https://kiyubits.github.io/kiyubytes/posts/first_post/</loc>
+    <lastmod>2024-09-26T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kiyubytes/tags/</loc>
+    <loc>https://kiyubits.github.io/kiyubytes/posts/</loc>
+    <lastmod>2024-09-26T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyubits.github.io/kiyubytes/categories/</loc>
+  </url><url>
+    <loc>https://kiyubits.github.io/kiyubytes/tags/</loc>
   </url>
 </urlset>
